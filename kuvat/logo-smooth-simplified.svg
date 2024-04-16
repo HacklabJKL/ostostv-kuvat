@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="216"
+   height="216"
+   viewBox="0 0 216 216"
+   version="1.1"
+   id="svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="logo.png"
+   inkscape:export-xdpi="480"
+   inkscape:export-ydpi="480">
+  <title
+     id="title">Hacklab Jyväskylä Logo</title>
+  <defs
+     id="defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3"
+     inkscape:cx="108"
+     inkscape:cy="108"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer"
+     showgrid="true"
+     units="px"
+     inkscape:snap-global="true"
+     inkscape:window-width="1200"
+     inkscape:window-height="900"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid"
+       empspacing="2"
+       spacingx="4"
+       spacingy="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Hacklab Jyväskylä Logo</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:date>2021-12-31</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Sampsa Kiiskinen</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Members of Hacklab Jyväskylä</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:description>This file was written by hand and previewed with Inkscape. The fractions in the source code are approximations of dynamic offsets of radii `1` and `2`.</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer"
+     inkscape:groupmode="layer"
+     id="layer">
+    <g
+       id="vectors">
+      <path
+         id="panel"
+         d="M 4,186 C 4,187.105 4.895,188 6,188 H 210 C 211.105,188 212,187.105 212,186 V 30 C 212,28.895 211.105,28 210,28 H 6 C 4.895,28 4,28.895 4,30 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         id="frame"
+         d="M 0,190 C 0,191.105 0.895,192 2,192 H 214 C 215.105,192 216,191.105 216,190 V 26 C 216,24.895 215.105,24 214,24 H 2 C 0.895,24 0,24.895 0,26 Z M 8,32 H 208 V 184 H 8 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <g
+         id="lights">
+        <path
+           id="row-0-column-0"
+           d="M 16,78 C 16,79.105 16.895,80 18,80 H 22 C 23.105,80 24,79.105 24,78 V 64 H 48 V 78 C 48,79.105 48.895,80 50,80 H 54 C 55.105,80 56,79.105 56,78 V 42 C 56,40.895 55.105,40 54,40 H 50 C 48.895,40 48,40.895 48,42 V 56 H 24 V 42 C 24,40.895 23.105,40 22,40 H 18 C 16.895,40 16,40.895 16,42 Z"
+           style="fill:#91c270;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+        <path
+           id="row-0-column-1"
+           d="M 64,78 C 64,79.105 64.895,80 66,80 H 70 C 71.105,80 72,79.105 72,78 V 64 H 96 V 78 C 96,79.105 96.895,80 98,80 H 102 C 103.105,80 104,79.105 104,78 V 42 C 104,40.895 103.105,40 102,40 H 66 C 64.895,40 64,40.895 64,42 Z M 72,48 H 96 V 56 H 72 Z"
+           style="fill:#daebcf;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+        <path
+           id="row-0-column-2"
+           d="M 112,78 C 112,79.105 112.895,80 114,80 H 150 C 151.105,80 152,79.105 152,78 V 74 C 152,72.895 151.105,72 150,72 H 120 V 48 H 150 C 151.105,48 152,47.105 152,46 V 42 C 152,40.895 151.105,40 150,40 H 114 C 112.895,40 112,40.895 112,42 Z"
+           style="fill:#91c270;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+        <path
+           id="row-0-column-3"
+           d="M 160,78 C 160,79.105 160.895,80 162,80 H 166 C 167.105,80 168,79.105 168,78 V 77.656 L 180,65.656 193.758,79.414 C 194.133,79.789 194.641,80 195.172,80 H 198 C 199.105,80 200,79.105 200,78 V 75.172 C 200,74.641 199.789,74.133 199.414,73.758 L 185.656,60 199.414,46.242 C 199.789,45.867 200,45.359 200,44.828 V 42 C 200,40.895 199.105,40 198,40 H 195.172 C 194.641,40 194.133,40.211 193.758,40.586 L 168,66.344 V 42 C 168,40.895 167.105,40 166,40 H 162 C 160.895,40 160,40.895 160,42 Z"
+           style="fill:#91c270;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+        <path
+           id="row-1-column-0"
+           d="M 16,126 C 16,127.105 16.895,128 18,128 H 54 C 55.105,128 56,127.105 56,126 V 122 C 56,120.895 55.105,120 54,120 H 24 V 90 C 24,88.895 23.105,88 22,88 H 18 C 16.895,88 16,88.895 16,90 Z"
+           style="fill:#91c270;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+        <path
+           id="row-1-column-1"
+           d="M 64,126 C 64,127.105 64.895,128 66,128 H 70 C 71.105,128 72,127.105 72,126 V 112 H 96 V 126 C 96,127.105 96.895,128 98,128 H 102 C 103.105,128 104,127.105 104,126 V 90 C 104,88.895 103.105,88 102,88 H 66 C 64.895,88 64,88.895 64,90 Z M 72,96 H 96 V 104 H 72 Z"
+           style="fill:#91c270;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+        <path
+           id="row-1-column-2"
+           d="M 112,126 C 112,127.105 112.895,128 114,128 H 150 C 151.105,128 152,127.105 152,126 V 90 C 152,88.895 151.105,88 150,88 H 114 C 112.895,88 112,88.895 112,90 Z M 120,96 H 144 V 104 H 120 Z M 120,112 H 144 V 120 H 120 Z"
+           style="fill:#daebcf;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+        <path
+           id="row-2-column-0"
+           d="M 16,174 C 16,175.105 16.895,176 18,176 H 54 C 55.105,176 56,175.105 56,174 V 138 C 56,136.895 55.105,136 54,136 H 50 C 48.895,136 48,136.895 48,138 V 168 H 18 C 16.895,168 16,168.895 16,170 Z"
+           style="fill:#daebcf;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+        <path
+           id="row-2-column-1"
+           d="M 64,174 C 64,175.105 64.895,176 66,176 H 70 C 71.105,176 72,175.105 72,174 V 173.656 L 84,161.656 97.758,175.414 C 98.133,175.789 98.641,176 99.172,176 H 102 C 103.105,176 104,175.105 104,174 V 171.172 C 104,170.641 103.789,170.133 103.414,169.758 L 89.656,156 103.414,142.242 C 103.789,141.867 104,141.359 104,140.828 V 138 C 104,136.895 103.105,136 102,136 H 99.172 C 98.641,136 98.133,136.211 97.758,136.586 L 72,162.344 V 138 C 72,136.895 71.105,136 70,136 H 66 C 64.895,136 64,136.895 64,138 Z"
+           style="fill:#daebcf;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+        <path
+           id="row-2-column-2"
+           d="M 112,174 C 112,175.105 112.895,176 114,176 H 150 C 151.105,176 152,175.105 152,174 V 170 C 152,168.895 151.105,168 150,168 H 120 V 138 C 120,136.895 119.105,136 118,136 H 114 C 112.895,136 112,136.895 112,138 Z"
+           style="fill:#daebcf;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+        <path
+           id="row-1-column-3-subcolumn-0"
+           d="M 160,127 C 160,127.552 160.448,128 161,128 H 163 C 163.552,128 164,127.552 164,127 V 89 C 164,88.448 163.552,88 163,88 H 161 C 160.448,88 160,88.448 160,89 Z"
+           style="fill:#91c270;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+        <path
+           id="row-1-column-3-subcolumn-1-subrow-0"
+           d="M 172,103 C 172,103.552 172.448,104 173,104 H 199 C 199.552,104 200,103.552 200,103 V 89 C 200,88.448 199.552,88 199,88 H 173 C 172.448,88 172,88.448 172,89 Z M 176,92 H 196 V 100 H 176 Z"
+           style="fill:#91c270;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+        <path
+           id="row-1-column-3-subcolumn-1-subrow-1"
+           d="M 172,127 C 172,127.552 172.448,128 173,128 H 199 C 199.552,128 200,127.552 200,127 V 113 C 200,112.448 199.552,112 199,112 H 197 C 196.448,112 196,112.448 196,113 V 124 H 173 C 172.448,124 172,124.448 172,125 Z"
+           style="fill:#91c270;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+        <path
+           id="row-2-column-3-subcolumn-0"
+           d="M 160,175 C 160,175.552 160.448,176 161,176 H 163 C 163.552,176 164,175.552 164,175 V 137 C 164,136.448 163.552,136 163,136 H 161 C 160.448,136 160,136.448 160,137 Z"
+           style="fill:#91c270;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+        <path
+           id="row-2-column-3-subcolumn-1-subrow-0"
+           d="M 172,151 C 172,151.552 172.448,152 173,152 H 199 C 199.552,152 200,151.552 200,151 V 149 C 200,148.448 199.552,148 199,148 H 188 V 137 C 188,136.448 187.552,136 187,136 H 173 C 172.448,136 172,136.448 172,137 Z M 176,140 H 184 V 148 H 176 Z"
+           style="fill:#91c270;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+        <path
+           id="row-2-column-3-subcolumn-1-subrow-1"
+           d="M 172,175 C 172,175.552 172.448,176 173,176 H 187 C 187.552,176 188,175.552 188,175 V 164 H 199 C 199.552,164 200,163.552 200,163 V 161 C 200,160.448 199.552,160 199,160 H 173 C 172.448,160 172,160.448 172,161 Z M 176,164 H 184 V 172 H 176 Z"
+           style="fill:#91c270;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      </g>
+    </g>
+  </g>
+</svg>
