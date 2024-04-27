@@ -35,3 +35,16 @@ jotka ovat:
 .xbm
 .xpm
 .zlib)
+
+# Testaus
+
+Voit katsoa miltä kuvat näyttävät omalla näytölläsi seuraavalla komennolla
+
+```sh
+# F fullscreen
+# Y hide pointer/cursor
+# Z autozoom, scale to screen size
+# p preload images
+
+feh -FYZp kuvat/kuva-*
+```
